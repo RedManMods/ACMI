@@ -1,7 +1,7 @@
 # 📌 Assetto Corsa Mod Installer (ACMI)
 Welcome to the Assetto Corsa Mod Installer GitHub page!
 
-A simple AutoHotkeyV2-based installer for Assetto Corsa mods, including Content Manager, Custom Shaders Patch, and Pure, with a user-friendly GUI for easy installation and updates.
+A simple ~~AutoHotkeyV2-based~~ Python installer for Assetto Corsa mods, including Content Manager, Custom Shaders Patch, and Pure, with a user-friendly GUI for easy installation and updates.
 
 ![Alt Text](https://i.imgur.com/vJbXn7I.png)
 
@@ -15,7 +15,7 @@ A simple AutoHotkeyV2-based installer for Assetto Corsa mods, including Content 
 ## ⚙️ Download Binary\Usage
 - **Download**: Latest Release [Releases](https://github.com/RedManMods/ACMI/releases).
 - **Extract**: There will be an Application and a Library folder, needs to be in the same directory.
-- **Run**: Depending on what you select it will ask for either a place to install Content Manager or ask for your Assetto Corsa Directory. Default directory path is: "C:\Program Files (x86)\Steam\steamapps\common\assettocorsa"
+- **Run**: ~~Depending on what you select it will ask for either a place to install Content Manager or ask for your Assetto Corsa Directory. Default directory path is: "C:\Program Files (x86)\Steam\steamapps\common\assettocorsa"~~ v1.0.1 Now Auto Detects the Assetto Corsa Directory.
 
 ## 📢 Changelog
 - **v1.0.0** - Initial release
