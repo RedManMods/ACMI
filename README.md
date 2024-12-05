@@ -19,6 +19,7 @@ A simple AutoHotkeyV2-based installer for Assetto Corsa mods, including Content 
 
 ## 📢 Changelog
 - **v1.0.0** - Initial release
+- **v1.0.1** - Will now automatically find your Assetto Corsa directory. Added a progress bar, you can now click on the text to get more detailed information.
 
 ## 🧑‍💻 Contact & Contributing
 If you encounter any issues or want to suggest improvements, please open an issue on the [GitHub Issues](https://github.com/RedManMods/ACMI/issues) page.
