@@ -20,7 +20,7 @@ A simple ~~AutoHotkeyV2-based~~ Python installer for Assetto Corsa mods, includi
 ## 📢 Changelog
 - **v1.0.0** - Initial release
 - **v1.0.1** - Will now automatically find your Assetto Corsa directory. Added a progress bar, you can now click on the text to get more detailed information.
-- **v1.0.2** - Added Version Numbers to buttons, converted labels to text.
+- **v1.0.2** - Added Version Numbers to buttons, converted labels to text. Can no longer trigger multiple downloads at once.
 
 ## 🧑‍💻 Contact & Contributing
 If you encounter any issues or want to suggest improvements, please open an issue on the [GitHub Issues](https://github.com/RedManMods/ACMI/issues) page.
