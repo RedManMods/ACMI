@@ -14,7 +14,7 @@ A simple ~~AutoHotkeyV2-based~~ Python installer for Assetto Corsa mods, includi
 
 ## ⚙️ Download Binary\Usage
 - **Download**: Latest Release [Releases](https://github.com/RedManMods/ACMI/releases).
-- **Extract**: There will be an Application and a Library folder, needs to be in the same directory.
+- **Extract**: ~~There will be an Application and a Library folder, needs to be in the same directory~~, v1.0.1 is now a standalone app. Can be placed anywhere, preferably on the desktop.
 - **Run**: ~~Depending on what you select it will ask for either a place to install Content Manager or ask for your Assetto Corsa Directory. Default directory path is: "C:\Program Files (x86)\Steam\steamapps\common\assettocorsa"~~ v1.0.1 Now Auto Detects the Assetto Corsa Directory.
 
 ## 📢 Changelog
